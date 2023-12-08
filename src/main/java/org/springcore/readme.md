@@ -1,0 +1,1 @@
+Project for the SpringJDBC: We have two types of the configurations in the project 1.By .xml file 2.By Config.class file by the @Configuration annotation 
